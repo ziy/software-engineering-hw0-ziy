@@ -15,8 +15,8 @@
   </repositories>
   <distributionManagement>
     <repository>
-      <id>Zi Yang GitHub Codebase</id>
-      <url>http://github.com/ziy</url>
+      <id>oaqa</id>
+      <url>http://mu.lti.cs.cmu.edu:8081/nexus/content/groups/course</url>
     </repository>
   </distributionManagement>
   <dependencies>
